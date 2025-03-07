@@ -7,8 +7,11 @@ Welcome to my personal portfolio! This website showcases my journey in Artificia
 ## Current interests!
 
 > Machine Learning (RL)
+
 > Autonomous Systems
+
 > Database Management & ML Integration (especially with autonomous learning systems)
+
 > Cloud Computing (with AWS)
 
 
